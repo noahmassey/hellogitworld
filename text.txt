@@ -1,3 +1,4 @@
+Something fixed in a bug
 second
 Matthew was here again
 Matthew was here.
