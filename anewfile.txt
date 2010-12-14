@@ -6,3 +6,4 @@ I love bacon!!!
 =======
 A change for Git Class on Dec 14
 >>>>>>> 950a592f0c4fec30bed817514032fa2a0edd94da
+This here is a change of sorts.
