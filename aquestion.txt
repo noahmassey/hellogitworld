@@ -1,8 +1,8 @@
 <html>
   <h1>Hello</h1>
   <body>
-    <p>First</p>
+    <p>First we should do this</p>
     <!-- comments -->
-    <p>Second</p>
+    <p>Second should do that</p>
   </body>
 </html>
