@@ -2,4 +2,4 @@ void myMethod () {
   println "Mine that another"
   
   println "more output from master"
-}
+}UPDATE
