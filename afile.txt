@@ -1,11 +1,3 @@
-Tim check this out!
-Testing testing!MYLATESTCHANGE
-FETCHTHIS
-AFETCHEDCHANGE2
-BADCODE
-SOMEBRANCHWORK
-SOMEBRANCHWORK2
-ANOTHERBUGFIX and BUGFIX with PERFTUNE
-MORE
-NEWSTUFF
-ONMASTER
+void myMethod () {
+  println "this" + "that" + "another"
+}
