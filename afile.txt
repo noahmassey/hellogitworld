@@ -3,3 +3,4 @@ void myMethod () {
   
   println "more output from master"
 }UPDATE
+ICHANGEDIT
