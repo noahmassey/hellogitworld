@@ -4,4 +4,4 @@ void myMethod () {
   println "more output from master"
 }UPDATE
 onmaster
-STORYSTUFF
+STORYSTUFF with FOO
